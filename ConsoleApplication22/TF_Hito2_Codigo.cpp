@@ -39,6 +39,7 @@ int main()
 {
 	//  Un comentario simple
 	// Otro comentario
+	// una implementacion
 	short* Opcion = new short; 
 	bool* nivel2Desbloqueado = new bool, * nivel3Desbloqueado = new bool;
 	*nivel2Desbloqueado = false;   

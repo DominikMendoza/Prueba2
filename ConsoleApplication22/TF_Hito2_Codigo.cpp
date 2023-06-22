@@ -38,7 +38,8 @@ void presentacion()
 int main()
 {
 	//  Un comentario simple
-	short* Opcion = new short;
+	// Otnro comentario
+	short* Opcion = new short; 
 	bool* nivel2Desbloqueado = new bool, * nivel3Desbloqueado = new bool;
 	*nivel2Desbloqueado = false;   
 	*nivel3Desbloqueado = false;      

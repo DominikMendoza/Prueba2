@@ -49,6 +49,7 @@ int main()
 	Console::Clear();
 	Console::CursorVisible = false;
 	system("color 7b");
+	int a = 0;
 
 	presentacion(); 
 	system("pause>0");
